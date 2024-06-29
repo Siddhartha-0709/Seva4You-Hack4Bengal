@@ -1,0 +1,12 @@
+[submodule "UserMobileApp"]
+	path = UserMobileApp
+	url = https://github.com/Siddhartha-0709/Seva4You
+[submodule "DriverMobileApp"]
+	path = DriverMobileApp
+	url = https://github.com/Siddhartha-0709/Seva4YouDriver
+[submodule "BackendFiles"]
+	path = BackendFiles
+	url = https://github.com/Siddhartha-0709/Seva4You-Backend
+[submodule "MapWebApp"]
+	path = MapWebApp
+	url = https://github.com/Siddhartha-0709/Impulse-Web-Map
